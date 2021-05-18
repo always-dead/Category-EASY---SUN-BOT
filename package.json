@@ -1,0 +1,17 @@
+{
+    "name": "your bot name",
+    "version": "1.0.0",
+    "description": "my awesome bot!",
+    "main": "main.js",
+    "scripts": {
+      "start": "node main.js"
+    },
+    "engines": {
+      "node": "12.x"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "aoi.js": "^1.0.6"
+    }
+  }
